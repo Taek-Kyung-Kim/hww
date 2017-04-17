@@ -28,6 +28,9 @@ public class SimpleCarculrator {
 		res -= d;
 	}
 	
+	public void abc(int x){
+		
+	}
 	
 	
 	public void addWithPositiveArgs(int x, int y)
