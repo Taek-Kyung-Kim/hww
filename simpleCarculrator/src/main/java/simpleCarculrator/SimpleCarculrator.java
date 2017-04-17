@@ -24,7 +24,10 @@ public class SimpleCarculrator {
 	public void inc(int d) {
 		res += d;
 	}
-
+	public void dec(int d) {
+		res -= d;
+	}
+	
 	
 	
 	public void addWithPositiveArgs(int x, int y)
