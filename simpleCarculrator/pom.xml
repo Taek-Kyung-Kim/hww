@@ -3,4 +3,9 @@
   <groupId>hansung.ce</groupId>
   <artifactId>simpleCarculrator</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+     <dependency>
+        <groupId><yourGroupID></groupId>
+        <artifactId><yourArtifactId></artifactId>
+        <version><yourVersion></version>
+    </dependency>
 </project>
