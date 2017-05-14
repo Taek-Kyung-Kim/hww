@@ -3,6 +3,7 @@
   <groupId>hansung.ce</groupId>
   <artifactId>simpleCarculrator</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
   <resources>
     <resources>
       <directory>src/main/java</directory>
@@ -14,4 +15,5 @@
       <directory>src/main/resources</directory>
     </resource>
   </resources>
+  </build>
 </project>
